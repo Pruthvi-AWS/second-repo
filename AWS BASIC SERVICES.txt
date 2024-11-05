@@ -1,0 +1,26 @@
+Compute:
+    EC2,ECS,EKS,Lambda,Lightsail
+    EC2--->Remote Virtual Server or virtual os
+
+Storage:
+    S3,EFS,EBS
+
+Network:
+   VPC,Route53,Elastic IP
+
+Database:
+   Relational:
+        RDS---->MYSQL,MSSQL,POSTGRESQL,MARIADB,ORACLE,DB2
+                AURORA(MYSQL/POSTGRESQL)
+   Non-Relational:
+        DynamoDB
+
+Monitoring Services:
+   Cloud Watch,Cloud Trail
+   SNS--->Simple Notification Service
+   SQS--->Simple Queue Service
+   SES--->Simple E-mail Service 
+
+IAM(Identity and Access Management)
+
+Elastic BeanStalk
